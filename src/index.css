@@ -1,4 +1,7 @@
 body {
   margin: 0;
   height: 99vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
